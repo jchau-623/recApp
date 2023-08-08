@@ -1,1 +1,23 @@
-wadaw
+Vacation Planning Site (User Auth, Splash Page, Header, Footer) => React
+    -User App (Signup/Login Form) => Express/Node.js
+    -Ideation App (OpenAI, Ideation Form, NYC/SF/San Antonio/Austin) => Express/Node.js
+    -Flight Finder App (README) => Go/Rust/Python
+    -Hotel Booking App
+
+Form X
+Tell me about your travel ideas
+
+
+Form Y
+I am traveling between X and Y dates (Datetime, UI: Datepicker)
+I am traveling with C (int, UI: Dropdown) people
+When I travel I like to D E and F (Varchar 32, UI: Input)
+I like to be G (Str, UI: Dropdown) active when I travel
+My budget is H (Int, UI: Slider)
+Take weather into consideration
+
+I am planning travel to Austin, San Antonio, New York, or San Francisco. I must travel between
+A and B dates. I will be bringing C other people with me. Please provide me with 3 itineraries for each potential travel location.
+Please keep in mind that I prefer to be G active when I travel and I must not spend more than $H. Also, I would prefer activities
+such as D, E, and F so include similar activities in my itinerary. Finally, given the dates I will
+be traveling, please provide a weather outlook and take weather into considerationwhen planning my itinerary.
